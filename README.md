@@ -17,7 +17,7 @@ This project features an interactive web application that visualizes data from t
 
 ## Usage
 
-1. Open the website in a web browser. Goto `https://saadnasir92.github.io/belly-button-challenge/` to interact with the website. 
+1. Open the website in a web browser. Goto `https://saadnasir92.github.io/Belly-Button-Biodiversity-Dashboard/` to interact with the website. 
 2. Select a test subject ID from the dropdown menu.
 3. View the demographic information and the interactive bar and bubble charts.
 
@@ -37,7 +37,7 @@ This project features an interactive web application that visualizes data from t
 
 ## Live Site
 
-You can view the live site at: [GitHub Pages URL](https://saadnasir92.github.io/belly-button-challenge/)
+You can view the live site at: [GitHub Pages URL](https://saadnasir92.github.io/Belly-Button-Biodiversity-Dashboard/)
 
 ## Acknowledgments
 
